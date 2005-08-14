@@ -1,0 +1,114 @@
+2005-08-01  Sander Vesik <sander.vesik@gmail.com>
+	* DejaVuSans.sfd, DejaVuSansOblique.sfd, DejaVuSansBold.sfd,
+	  DejaVuSansBoldOblique.sfd, DejaVuSerif.sfd, DejaVuSerifBold.sfd,
+	  DejaVuSerifOblique.sfd, DejaVuSerifBoldOblique.sfd,
+	  DejaVuMonoSans.sfd, DejaVuMonoSansOblique.sfd, 
+	  DejaVuMonoSansBold.sfd, DejaVuMonoSansBoldOblique.sfd
+	Added U+01D6, U+01DF, U+022B, U+022D and U+0231
+	  
+2005-07-25  Sander Vesik <sander.vesik@gmail.com>
+	* DejaVuSans.sfd, DejaVuSansOblique.sfd, DejaVuSansBold.sfd,
+	  DejaVuSansBoldOblique.sfd, DejaVuSerif.sfd, DejaVuSerifBold.sfd:
+	commited extra kerning for 'F'
+
+2005-07-18  Danilo Šegan  <danilo@gnome.org>
+
+	* DejaVuMonoSans.sfd, DejaVuMonoSansOblique.sfd: Added
+	uni2500—uni257F box drawing glyphs by David Jež.
+
+2005-07-18  Danilo Šegan  <danilo@gnome.org>
+
+	* DejaVuSerifOblique.sfd, DejaVuSerifBoldOblique.sfd: Committed
+	accent fixes for dcaron, lcaron, tcaron, Uogonek, uogonek by David
+	Jež.
+
+2005-03-26  Danilo Šegan  <dsegan@gmx.net>
+
+	* DejaVuSans.sfd, DejaVuSansOblique.sfd, DejaVuSansBold.sfd,
+	DejaVuSansBoldOblique.sfd: integration of Arev Cyrillics from 
+	http://tavmjong.free.fr/FONTS/.
+
+2005-01-18  Danilo Šegan  <dsegan@gmx.net>
+
+	* *.sfd: More clean-ups to Cyrillic D and d for 1.6 release.
+
+2005-01-12  Danilo Šegan  <dsegan@gmx.net>
+
+	* DejaVuSerifOblique.sfd, DejaVuSerifBoldOblique: Fix accent
+	positioning.
+
+2005-01-12  Danilo Šegan  <dsegan@gmx.net>
+
+	* DejaVuMonoSans.sfd, DejaVuMonoSansOblique.sfd: Corrected
+	cyrillic D and d (reminded by David Jez, who also provided initial
+	improved glyphs).
+
+2005-01-12  Danilo Šegan  <dsegan@gmx.net>
+
+	* DejaVuSansOblique.sfd, DejaVuSansBoldOblique.sfd: Corrected
+	cyrillic D and d (reminded by David Jez, who also provided initial
+	improved glyphs).
+
+2005-01-12  Danilo Šegan  <dsegan@gmx.net>
+
+	* DejaVuSansBold.sfd, DejaVuSans.sfd: Corrected cyrillic D and d
+	(reminded by David Jez, who also provided initial improved glyphs).
+
+2004-12-11  Danilo Šegan  <dsegan@gmx.net>
+
+	* DejaVuSansMonoBold.sfd: Add Cyrillics (U0400-U045f).
+	* DejaVuSansMonoBoldOblique.sfd: Add Cyrillics (U0400-U045f).
+
+2004-12-09  Danilo Šegan  <dsegan@gmx.net>
+
+	* DejaVuSerifBold.sfd: Add Cyrillics (U0400-U045f).
+
+2004-11-16  Danilo Šegan  <dsegan@gmx.net>
+
+	* generate.pe: Make it act as Unix script.
+
+2004-10-29  Danilo Šegan  <dsegan@gmx.net>
+
+	* DejaVuSerif.sfd: Fixup some accented Cyrillic glyphs.
+	* DejaVuMonoSans.sfd: Fixup some accented Cyrillic glyphs.
+
+2004-10-29  Danilo Šegan  <dsegan@gmx.net>
+
+	Fix bugs reported by Sander Vesik <sander.vesik@gmail.com>.
+	
+	* DejaVuSans.sfd: Use c6468 instead of breve in U040e, U0419.
+	* DejaVuSansOblique.sfd: Use c6468 instead of breve in U040e, U0419.
+	* DejaVuSansBold.sfd: Fixup most accented uppercase Cyrillic glyphs.
+	* DejaVuSansBoldOblique.sfd: Fixup most accented uppercase Cyrillic glyphs.
+	
+2004-10-16  Danilo Šegan  <dsegan@gmx.net>
+
+	* DejaVuMonoSansOblique.sfd: Added preliminary Cyrillics
+	(U0400-U045f).
+
+	* DejaVuMonoSans.sfd: Fixes of several Cyrillic glyphs.
+
+2004-10-10  Danilo Šegan  <dsegan@gmx.net>
+
+	* DejaVuMonoSansOblique.sfd, DejaVuMonoSansBold.sfd,
+	DejaVuMonoSansBoldOblique.sfd, DejaVuSerif.sfd,
+	DejaVuSerifBold.sfd: 
+	Copied ETH (U00d0) to Dcroat (U0110).
+
+2004-10-10  Danilo Šegan  <dsegan@gmx.net>
+
+	* DejaVuMonoSans.sfd: Added Cyrillics (U0400-U045f) and Dcroat (U0110).
+
+2004-10-10  Danilo Šegan  <dsegan@gmx.net>
+
+	* DejaVuSerif.sfd: Added Cyrillics (U0400–U045f).
+
+2004-08-25  Danilo Šegan  <dsegan@gmx.net>
+
+	* DejaVuSans.sfd, DejaVuSansBold.sfd, DejaVuSansBoldOblique.sfd,
+	DejaVuSansOblique.sfd: Merged Cyrillics (U0400-U045f) from Bepa,
+	copied ETH (U00d0) to Dcroat (U0110).
+
+	Adds support for Serbian, Russian, Bulgarian, Macedonian,
+	Croatian and more in Sans typefaces.
+
