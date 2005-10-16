@@ -1,0 +1,944 @@
+This is the status file for DejaVu fonts
+($Id$)
+
+original = present in original Bitstream Vera 1.10
+<version> = added in DejaVu fonts <version>
+
+U+0020 space                original
+U+0021 exclam               original
+U+0022 quotedbl             original
+U+0023 numbersign           original
+U+0024 dollar               original
+U+0025 percent              original
+U+0026 ampersand            original
+U+0027 quotesingle          original
+U+0028 parenleft            original
+U+0029 parenright           original
+U+002a asterisk             original
+U+002b plus                 original
+U+002c comma                original
+U+002d hyphen               original
+U+002e period               original
+U+002f slash                original
+U+0030 zero                 original
+U+0031 one                  original
+U+0032 two                  original
+U+0033 three                original
+U+0034 four                 original
+U+0035 five                 original
+U+0036 six                  original
+U+0037 seven                original
+U+0038 eight                original
+U+0039 nine                 original
+U+003a colon                original
+U+003b semicolon            original
+U+003c less                 original
+U+003d equal                original
+U+003e greater              original
+U+003f question             original
+U+0040 at                   original
+U+0041 A                    original
+U+0042 B                    original
+U+0043 C                    original
+U+0044 D                    original
+U+0045 E                    original
+U+0046 F                    original
+U+0047 G                    original
+U+0048 H                    original
+U+0049 I                    original
+U+004a J                    original
+U+004b K                    original
+U+004c L                    original
+U+004d M                    original
+U+004e N                    original
+U+004f O                    original
+U+0050 P                    original
+U+0051 Q                    original
+U+0052 R                    original
+U+0053 S                    original
+U+0054 T                    original
+U+0055 U                    original
+U+0056 V                    original
+U+0057 W                    original
+U+0058 X                    original
+U+0059 Y                    original
+U+005a Z                    original
+U+005b bracketleft          original
+U+005c backslash            original
+U+005d bracketright         original
+U+005e asciicircum          original
+U+005f underscore           original
+U+0060 grave                original
+U+0061 a                    original
+U+0062 b                    original
+U+0063 c                    original
+U+0064 d                    original
+U+0065 e                    original
+U+0066 f                    original
+U+0067 g                    original
+U+0068 h                    original
+U+0069 i                    original
+U+006a j                    original
+U+006b k                    original
+U+006c l                    original
+U+006d m                    original
+U+006e n                    original
+U+006f o                    original
+U+0070 p                    original
+U+0071 q                    original
+U+0072 r                    original
+U+0073 s                    original
+U+0074 t                    original
+U+0075 u                    original
+U+0076 v                    original
+U+0077 w                    original
+U+0078 x                    original
+U+0079 y                    original
+U+007a z                    original
+U+007b braceleft            original
+U+007c bar                  original
+U+007d braceright           original
+U+007e asciitilde           original
+U+00a0 nonbreakingspace     original
+U+00a1 exclamdown           original
+U+00a2 cent                 original
+U+00a3 sterling             original
+U+00a4 currency             original
+U+00a5 yen                  original
+U+00a6 brokenbar            original
+U+00a7 section              original
+U+00a8 dieresis             original
+U+00a9 copyright            original
+U+00aa ordfeminine          original
+U+00ab guillemotleft        original
+U+00ac logicalnot           original
+U+00ad sfthyphen            original
+U+00ae registered           original
+U+00af macron               original
+U+00b0 degree               original
+U+00b1 plusminus            original
+U+00b2 twosuperior          original
+U+00b3 threesuperior        original
+U+00b4 acute                original
+U+00b5 mu                   original
+U+00b6 paragraph            original
+U+00b7 periodcentered       original
+U+00b8 cedilla              original
+U+00b9 onesuperior          original
+U+00ba ordmasculine         original
+U+00bb guillemotright       original
+U+00bc onequarter           original
+U+00bd onehalf              original
+U+00be threequarters        original
+U+00bf questiondown         original
+U+00c0 Agrave               original
+U+00c1 Aacute               original
+U+00c2 Acircumflex          original
+U+00c3 Atilde               original
+U+00c4 Adieresis            original
+U+00c5 Aring                original
+U+00c6 AE                   original
+U+00c7 Ccedilla             original
+U+00c8 Egrave               original
+U+00c9 Eacute               original
+U+00ca Ecircumflex          original
+U+00cb Edieresis            original
+U+00cc Igrave               original
+U+00cd Iacute               original
+U+00ce Icircumflex          original
+U+00cf Idieresis            original
+U+00d0 Eth                  original
+U+00d1 Ntilde               original
+U+00d2 Ograve               original
+U+00d3 Oacute               original
+U+00d4 Ocircumflex          original
+U+00d5 Otilde               original
+U+00d6 Odieresis            original
+U+00d7 multiply             original
+U+00d8 Oslash               original
+U+00d9 Ugrave               original
+U+00da Uacute               original
+U+00db Ucircumflex          original
+U+00dc Udieresis            original
+U+00dd Yacute               original
+U+00de Thorn                original
+U+00df germandbls           original
+U+00e0 agrave               original
+U+00e1 aacute               original
+U+00e2 acircumflex          original
+U+00e3 atilde               original
+U+00e4 adieresis            original
+U+00e5 aring                original
+U+00e6 ae                   original
+U+00e7 ccedilla             original
+U+00e8 egrave               original
+U+00e9 eacute               original
+U+00ea ecircumflex          original
+U+00eb edieresis            original
+U+00ec igrave               original
+U+00ed iacute               original
+U+00ee icircumflex          original
+U+00ef idieresis            original
+U+00f0 eth                  original
+U+00f1 ntilde               original
+U+00f2 ograve               original
+U+00f3 oacute               original
+U+00f4 ocircumflex          original
+U+00f5 otilde               original
+U+00f6 odieresis            original
+U+00f7 divide               original
+U+00f8 oslash               original
+U+00f9 ugrave               original
+U+00fa uacute               original
+U+00fb ucircumflex          original
+U+00fc udieresis            original
+U+00fd yacute               original
+U+00fe thorn                original
+U+00ff ydieresis            original
+U+0100 Amacron              1.5
+U+0101 amacron              1.5
+U+0102 Abreve               1.5
+U+0103 abreve               1.5
+U+0104 Aogonek              1.4
+U+0105 aogonek              1.4
+U+0106 Cacute               original
+U+0107 cacute               original
+U+0108 Ccircumflex          1.5
+U+0109 ccircumflex          1.5
+U+010a Cdotaccent           1.5
+U+010b cdotaccent           1.5
+U+010c Ccaron               original
+U+010d ccaron               original
+U+010e Dcaron               1.0
+U+010f dcaron               1.0
+U+0110 Dcroat               1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0111 dcroat               original
+U+0112 Emacron              1.5
+U+0113 emacron              1.5
+U+0114 Ebreve               1.5
+U+0115 ebreve               1.5
+U+0116 Edotaccent           1.5
+U+0117 edotaccent           1.5
+U+0118 Eogonek              1.4
+U+0119 eogonek              1.4
+U+011a Ecaron               1.0
+U+011b ecaron               1.0
+U+011c Gcircumflex          1.5
+U+011d gcircumflex          1.5
+U+011e Gbreve               original
+U+011f gbreve               original
+U+0120 Gdotaccent           1.5
+U+0121 gdotaccent           1.5
+U+0122 Gcommaaccent         1.11
+U+0123 gcommaaccent         1.11
+U+0124 Hcircumflex          1.5
+U+0125 hcircumflex          1.5
+U+0126 Hbar                 1.12
+U+0127 hbar                 1.12
+U+0128 Itilde               1.5
+U+0129 itilde               1.5
+U+012a Imacron              1.5
+U+012b imacron              1.5
+U+012c Ibreve               1.5
+U+012d ibreve               1.5
+U+012e Iogonek              1.11
+U+012f iogonek              1.11
+U+0130 Idotaccent           original
+U+0131 dotlessi             original
+U+0132 IJ                   1.11
+U+0133 ij                   1.11
+U+0134 Jcircumflex          1.5
+U+0135 jcircumflex          1.5
+U+0136 Kcommaaccent         1.11
+U+0137 kcommaaccent         1.11
+U+0138 kgreenlandic         1.12
+U+0139 Lacute               1.1
+U+013a lacute               1.1
+U+013b Lcommaaccent         1.11
+U+013c lcommaaccent         1.11
+U+013d Lcaron               1.1
+U+013e lcaron               1.1
+U+013f Ldot                 1.2
+U+0140 ldot                 1.2
+U+0141 Lslash               original
+U+0142 lslash               original
+U+0143 Nacute               1.4
+U+0144 nacute               1.4
+U+0145 Ncommaaccent         1.11
+U+0146 ncommaaccent         1.11
+U+0147 Ncaron               1.0
+U+0148 ncaron               1.0
+U+0149 napostrophe          1.12
+U+014a Eng                  1.12
+U+014b eng                  1.12
+U+014c Omacron              1.5
+U+014d omacron              1.5
+U+014e Obreve               1.5
+U+014f obreve               1.5
+U+0150 Ohungarumlaut        1.5
+U+0151 ohungarumlaut        1.5
+U+0152 OE                   original
+U+0153 oe                   original
+U+0154 Racute               1.1
+U+0155 racute               1.1
+U+0156 Rcommaaccent         1.11
+U+0157 rcommaaccent         1.11
+U+0158 Rcaron               1.0
+U+0159 rcaron               1.0
+U+015a Sacute               1.4
+U+015b sacute               1.4
+U+015c Scircumflex          1.5
+U+015d scircumflex          1.5
+U+015e Scedilla             original
+U+015f scedilla             original
+U+0160 Scaron               original
+U+0161 scaron               original
+U+0162 Tcommaaccent         1.5
+U+0163 tcommaaccent         1.5
+U+0164 Tcaron               1.0
+U+0165 tcaron               1.0
+U+0166 Tbar                 1.12
+U+0167 tbar                 1.12
+U+0168 Utilde               1.5
+U+0169 utilde               1.5
+U+016a Umacron              1.5
+U+016b umacron              1.5
+U+016c Ubreve               1.5
+U+016d ubreve               1.5
+U+016e Uring                1.0
+U+016f uring                1.0
+U+0170 Uhungarumlaut        1.5
+U+0171 uhungarumlaut        1.5
+U+0172 Uogonek              1.11
+U+0173 uogonek              1.11
+U+0174 Wcircumflex          1.2
+U+0175 wcircumflex          1.2
+U+0176 Ycircumflex          1.2
+U+0177 ycircumflex          1.2
+U+0178 Ydieresis            original
+U+0179 Zacute               1.4
+U+017a zacute               1.4
+U+017b Zdotaccent           1.4
+U+017c zdotaccent           1.4
+U+017d Zcaron               original
+U+017e zcaron               original
+U+017f longs                1.12
+U+0186 uni0186              1.15
+U+0190 uni0190              1.15
+U+0192 florin               original
+U+0194 uni0194              1.14
+U+01c4 uni01C4              1.9 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+01c5 uni01C5              1.9 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+01c6 uni01C6              1.9 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+01c7 uni01C7              1.9 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+01c8 uni01C8              1.9 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+01c9 uni01C9              1.9 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+01ca uni01CA              1.9 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+01cb uni01CB              1.9 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+01cc uni01CC              1.9 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+01cd uni01CD              1.15
+U+01ce uni01CE              1.15
+U+01cf uni01CF              1.15
+U+01d0 uni01D0              1.15
+U+01d1 uni01D1              1.15
+U+01d2 uni01D2              1.15
+U+01d3 uni01D3              1.15
+U+01d4 uni01D4              1.15
+U+01d6 uni01D6              1.13
+U+01df uni01DF              1.13
+U+01e2 uni01E2              1.5
+U+01e3 uni01E3              1.5
+U+01ea uni01EA              1.9
+U+01eb uni01EB              1.9
+U+01ec uni01EC              1.9
+U+01ed uni01ED              1.9
+U+0218 Scommaaccent         1.5
+U+0219 scommaaccent         1.5
+U+021a uni021A              1.5
+U+021b uni021B              1.5
+U+022b uni022B              1.13
+U+022d uni022D              1.13
+U+022e uni022E              1.10
+U+022f uni022F              1.10
+U+0231 uni0231              1.13
+U+0232 uni0232              1.5
+U+0233 uni0233              1.5
+U+0237 dotlessj             1.5
+U+0250 uni0250              1.14
+U+0251 uni0251              1.14
+U+0252 uni0252              1.14
+U+0253 uni0253              1.14
+U+0254 uni0254              1.14
+U+0255 uni0255              1.14
+U+0256 uni0256              1.14
+U+0257 uni0257              1.14
+U+0258 uni0258              1.14
+U+0259 uni0259              1.14
+U+025a uni025A              1.14
+U+025b uni025B              1.14
+U+025c uni025C              1.14
+U+025d uni025D              1.14
+U+025e uni025E              1.14
+U+025f uni025F              1.14
+U+0260 uni0260              1.14
+U+0261 uni0261              1.14
+U+0262 uni0262              1.14
+U+0263 uni0263              1.14
+U+0264 uni0264              1.14
+U+0265 uni0265              1.14
+U+0266 uni0266              1.14
+U+0267 uni0267              1.14
+U+0268 uni0268              1.14
+U+0269 uni0269              1.14
+U+026a uni026A              1.14
+U+026b uni026B              1.14
+U+026c uni026C              1.14
+U+026d uni026D              1.14
+U+026e uni026E              1.14
+U+026f uni026F              1.14
+U+0270 uni0270              1.14
+U+0271 uni0271              1.14
+U+0272 uni0272              1.14
+U+0273 uni0273              1.14
+U+0274 uni0274              1.14
+U+0275 uni0275              1.14
+U+0276 uni0276              1.14
+U+0277 uni0277              1.14
+U+0278 uni0278              1.14
+U+0279 uni0279              1.14
+U+027a uni027A              1.14
+U+027b uni027B              1.14
+U+027c uni027C              1.14
+U+027d uni027D              1.14
+U+027e uni027E              1.14
+U+027f uni027F              1.14
+U+0280 uni0280              1.14
+U+0281 uni0281              1.14
+U+0282 uni0282              1.14
+U+0283 uni0283              1.14
+U+0284 uni0284              1.14
+U+0285 uni0285              1.14
+U+0286 uni0286              1.14
+U+0287 uni0287              1.14
+U+0288 uni0288              1.14
+U+0289 uni0289              1.14
+U+028a uni028A              1.14
+U+028b uni028B              1.14
+U+028c uni028C              1.14
+U+028d uni028D              1.14
+U+028e uni028E              1.14
+U+028f uni028F              1.14
+U+0290 uni0290              1.14
+U+0291 uni0291              1.14
+U+0292 uni0292              1.14
+U+0293 uni0293              1.14
+U+0294 uni0294              1.14
+U+0295 uni0295              1.14
+U+0296 uni0296              1.14
+U+0297 uni0297              1.14
+U+0298 uni0298              1.14
+U+0299 uni0299              1.14
+U+029a uni029A              1.14
+U+029b uni029B              1.14
+U+029c uni029C              1.14
+U+029d uni029D              1.14
+U+029e uni029E              1.14
+U+029f uni029F              1.14
+U+02a0 uni02A0              1.14
+U+02a1 uni02A1              1.14
+U+02a2 uni02A2              1.14
+U+02a3 uni02A3              1.14
+U+02a4 uni02A4              1.14
+U+02a5 uni02A5              1.14
+U+02a6 uni02A6              1.14
+U+02a7 uni02A7              1.14
+U+02a8 uni02A8              1.14
+U+02a9 uni02A9              1.14
+U+02aa uni02AA              1.14
+U+02ab uni02AB              1.14
+U+02ac uni02AC              1.14
+U+02ad uni02AD              1.14
+U+02ae uni02AE              1.14
+U+02af uni02AF              1.14
+U+02b0 uni02B0              1.14
+U+02b1 uni02B1              1.14
+U+02b2 uni02B2              1.14
+U+02b3 uni02B3              1.14
+U+02b4 uni02B4              1.14
+U+02b5 uni02B5              1.14
+U+02b6 uni02B6              1.14
+U+02b7 uni02B7              1.14
+U+02b8 uni02B8              1.14
+U+02bb uni02BB              1.5
+U+02bc afii57929            1.12
+U+02c0 uni02C0              1.14
+U+02c1 uni02C1              1.14
+U+02c6 circumflex           original
+U+02c7 caron                original
+U+02d0 uni02D0              1.14
+U+02d1 uni02D1              1.14
+U+02d8 breve                original
+U+02d9 dotaccent            original
+U+02da ring                 original
+U+02db ogonek               original
+U+02dc tilde                original
+U+02dd hungarumlaut         original
+U+02e0 uni02E0              1.14
+U+02e1 uni02E1              1.14
+U+02e2 uni02E2              1.14
+U+02e3 uni02E3              1.14
+U+02e4 uni02E4              1.14
+U+0300 gravecomb            1.15
+U+0301 acutecomb            1.15
+U+0302 uni0302              1.15
+U+0303 tildecomb            1.15
+U+0304 uni0304              1.15
+U+0306 uni0306              1.15
+U+0307 uni0307              1.15
+U+0308 uni0308              1.15
+U+030a uni030A              1.15
+U+030b uni030B              1.15
+U+030c uni030C              1.15
+U+0312 uni0312              1.11
+U+0321 uni0321              1.15
+U+0322 uni0322              1.15
+U+0326 uni0326              1.5
+U+0374 uni0374              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0375 uni0375              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+037a uni037A              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+037e uni037E              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0384 tonos                1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0385 dieresistonos        1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0386 Alphatonos           1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0387 anoteleia            1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0388 Epsilontonos         1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0389 Etatonos             1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+038a Iotatonos            1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+038c Omicrontonos         1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+038e Upsilontonos         1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+038f Omegatonos           1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0390 iotadieresistonos    1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0391 Alpha                1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0392 Beta                 1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0393 Gamma                1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0394 uni0394              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0395 Epsilon              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0396 Zeta                 1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0397 Eta                  1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0398 Theta                1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+0399 Iota                 1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+039a Kappa                1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+039b Lambda               1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+039c Mu                   1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+039d Nu                   1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+039e Xi                   1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+039f Omicron              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03a0 Pi                   1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03a1 Rho                  1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03a3 Sigma                1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03a4 Tau                  1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03a5 Upsilon              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03a6 Phi                  1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03a7 Chi                  1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03a8 Psi                  1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03a9 Omega                original
+U+03aa Iotadieresis         1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03ab Upsilondieresis      1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique, Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03ac alphatonos           1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03ad epsilontonos         1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03ae etatonos             1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03af iotatonos            1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03b0 upsilondieresistonos 1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03b1 alpha                1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03b2 beta                 1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03b3 gamma                1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03b4 delta                1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03b5 epsilon              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03b6 zeta                 1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03b7 eta                  1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03b8 theta                1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03b9 iota                 1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03ba kappa                1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03bb lambda               1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03bc uni03BC              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03bd nu                   1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03be xi                   1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03bf omicron              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03c0 pi                   original
+U+03c1 rho                  1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03c2 sigma1               1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03c3 sigma                1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03c4 tau                  1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03c5 upsilon              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03c6 phi                  1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03c7 chi                  1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03c8 psi                  1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03c9 omega                1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03ca iotadieresis         1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03cb upsilondieresis      1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03cc omicrontonos         1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03cd upsilontonos         1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03ce omegatonos           1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique) 1.15 (Serif, Serif Bold, Serif Bold Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique, Serif Oblique)
+U+03d0 uni03D0              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03d1 theta1               1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03d2 Upsilon1             1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03d3 uni03D3              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03d4 uni03D4              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03d5 phi1                 1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03d6 omega1               1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03d7 uni03D7              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03d8 uni03D8              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03d9 uni03D9              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03da uni03DA              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03db uni03DB              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03dc uni03DC              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03dd uni03DD              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03de uni03DE              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03df uni03DF              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03e0 uni03E0              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03e1 uni03E1              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03f0 uni03F0              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03f1 uni03F1              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03f2 uni03F2              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03f3 uni03F3              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03f4 uni03F4              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03f5 uni03F5              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03f6 uni03F6              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03f7 uni03F7              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03f8 uni03F8              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03f9 uni03F9              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03fa uni03FA              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03fb uni03FB              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03fc uni03FC              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03fd uni03FD              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03fe uni03FE              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+03ff uni03FF              1.14 (Sans, Sans Bold, Sans Bold Oblique, Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Sans Oblique)
+U+0400 uni0400              1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0401 afii10023            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0402 afii10051            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0403 afii10052            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0404 afii10053            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0405 afii10054            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0406 afii10055            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0407 afii10056            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0408 afii10057            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0409 afii10058            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+040a afii10059            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+040b afii10060            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+040c afii10061            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+040d uni040D              1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+040e afii10062            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+040f afii10145            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0410 afii10017            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0411 afii10018            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0412 afii10019            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0413 afii10020            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0414 afii10021            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0415 afii10022            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0416 afii10024            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0417 afii10025            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0418 afii10026            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0419 afii10027            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+041a afii10028            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+041b afii10029            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+041c afii10030            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+041d afii10031            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+041e afii10032            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+041f afii10033            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0420 afii10034            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0421 afii10035            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0422 afii10036            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0423 afii10037            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0424 afii10038            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0425 afii10039            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0426 afii10040            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0427 afii10041            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0428 afii10042            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0429 afii10043            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+042a afii10044            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+042b afii10045            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+042c afii10046            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+042d afii10047            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+042e afii10048            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+042f afii10049            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0430 afii10065            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0431 afii10066            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0432 afii10067            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0433 afii10068            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0434 afii10069            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0435 afii10070            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0436 afii10072            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0437 afii10073            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0438 afii10074            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0439 afii10075            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+043a afii10076            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+043b afii10077            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+043c afii10078            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+043d afii10079            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+043e afii10080            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+043f afii10081            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0440 afii10082            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0441 afii10083            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0442 afii10084            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0443 afii10085            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0444 afii10086            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0445 afii10087            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0446 afii10088            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0447 afii10089            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0448 afii10090            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0449 afii10091            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+044a afii10092            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+044b afii10093            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+044c afii10094            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+044d afii10095            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+044e afii10096            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+044f afii10097            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0450 uni0450              1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0451 afii10071            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0452 afii10099            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0453 afii10100            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0454 afii10101            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0455 afii10102            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0456 afii10103            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0457 afii10104            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0458 afii10105            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0459 afii10106            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+045a afii10107            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+045b afii10108            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+045c afii10109            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+045d uni045D              1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+045e afii10110            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+045f afii10193            1.3 (Sans, Sans Bold, Sans Bold Oblique, Sans Oblique) 1.5 (Sans Mono, Sans Mono Bold, Sans Mono Bold Oblique, Sans Mono Oblique, Serif, Serif Bold) 1.6 (Serif Bold Oblique, Serif Oblique) 1.7 (Sans Condensed, Sans Condensed Bold, Sans Condensed Bold Oblique, Sans Condensed Oblique, Serif Condensed, Serif Condensed Bold, Serif Condensed Bold Oblique, Serif Condensed Oblique)
+U+0490 afii10050            1.15
+U+0491 afii10098            1.15
+U+0492 uni0492              1.14
+U+0493 uni0493              1.14
+U+049a uni049A              1.14
+U+049b uni049B              1.14
+U+04b2 uni04B2              1.14
+U+04b3 uni04B3              1.14
+U+1e12 uni1E12              1.13
+U+1e13 uni1E13              1.13
+U+1e3c uni1E3C              1.13
+U+1e3d uni1E3D              1.13
+U+1e44 uni1E44              1.13
+U+1e45 uni1E45              1.13
+U+1e4a uni1E4A              1.13
+U+1e4b uni1E4B              1.13
+U+1e70 uni1E70              1.13
+U+1e71 uni1E71              1.13
+U+1e80 Wgrave               1.2
+U+1e81 wgrave               1.2
+U+1e82 Wacute               1.2
+U+1e83 wacute               1.2
+U+1e84 Wdieresis            1.2
+U+1e85 wdieresis            1.2
+U+1ef2 Ygrave               1.2
+U+1ef3 ygrave               1.2
+U+2010 uni2010              1.5
+U+2011 uni2011              1.5
+U+2012 figuredash           1.5
+U+2013 endash               original
+U+2014 emdash               original
+U+2015 afii00208            1.5
+U+2018 quoteleft            original
+U+2019 quoteright           original
+U+201a quotesinglbase       original
+U+201c quotedblleft         original
+U+201d quotedblright        original
+U+201e quotedblbase         original
+U+2020 dagger               original
+U+2021 daggerdbl            original
+U+2022 bullet               original
+U+2026 ellipsis             original
+U+2030 perthousand          original
+U+2039 guilsinglleft        original
+U+203a guilsinglright       original
+U+207f uni207F              1.14
+U+20ac Euro                 original
+U+2122 trademark            original
+U+2202 partialdiff          original
+U+2206 Delta                original
+U+220f product              original
+U+2211 summation            original
+U+2212 minus                original
+U+2215 fraction             original
+U+2219 periodcentered       original
+U+221a radical              original
+U+221e infinity             original
+U+222b integral             original
+U+2248 approxequal          original
+U+2260 notequal             original
+U+2264 lessequal            original
+U+2265 greaterequal         original
+U+2302 house                1.14
+U+2310 revlogicalnot        1.14
+U+2311 uni2311              1.15
+U+2319 uni2319              1.14
+U+237d uni237D              1.15
+U+2423 uni2423              1.6
+U+2500 SF100000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2501 uni2501              1.12 (Sans Mono, Sans Mono Oblique)
+U+2502 SF110000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2503 uni2503              1.12 (Sans Mono, Sans Mono Oblique)
+U+2504 uni2504              1.12 (Sans Mono, Sans Mono Oblique)
+U+2505 uni2505              1.12 (Sans Mono, Sans Mono Oblique)
+U+2506 uni2506              1.12 (Sans Mono, Sans Mono Oblique)
+U+2507 uni2507              1.12 (Sans Mono, Sans Mono Oblique)
+U+2508 uni2508              1.12 (Sans Mono, Sans Mono Oblique)
+U+2509 uni2509              1.12 (Sans Mono, Sans Mono Oblique)
+U+250a uni250A              1.12 (Sans Mono, Sans Mono Oblique)
+U+250b uni250B              1.12 (Sans Mono, Sans Mono Oblique)
+U+250c SF010000             1.12 (Sans Mono, Sans Mono Oblique)
+U+250d uni250D              1.12 (Sans Mono, Sans Mono Oblique)
+U+250e uni250E              1.12 (Sans Mono, Sans Mono Oblique)
+U+250f uni250F              1.12 (Sans Mono, Sans Mono Oblique)
+U+2510 SF030000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2511 uni2511              1.12 (Sans Mono, Sans Mono Oblique)
+U+2512 uni2512              1.12 (Sans Mono, Sans Mono Oblique)
+U+2513 uni2513              1.12 (Sans Mono, Sans Mono Oblique)
+U+2514 SF020000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2515 uni2515              1.12 (Sans Mono, Sans Mono Oblique)
+U+2516 uni2516              1.12 (Sans Mono, Sans Mono Oblique)
+U+2517 uni2517              1.12 (Sans Mono, Sans Mono Oblique)
+U+2518 SF040000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2519 uni2519              1.12 (Sans Mono, Sans Mono Oblique)
+U+251a uni251A              1.12 (Sans Mono, Sans Mono Oblique)
+U+251b uni251B              1.12 (Sans Mono, Sans Mono Oblique)
+U+251c SF080000             1.12 (Sans Mono, Sans Mono Oblique)
+U+251d uni251D              1.12 (Sans Mono, Sans Mono Oblique)
+U+251e uni251E              1.12 (Sans Mono, Sans Mono Oblique)
+U+251f uni251F              1.12 (Sans Mono, Sans Mono Oblique)
+U+2520 uni2520              1.12 (Sans Mono, Sans Mono Oblique)
+U+2521 uni2521              1.12 (Sans Mono, Sans Mono Oblique)
+U+2522 uni2522              1.12 (Sans Mono, Sans Mono Oblique)
+U+2523 uni2523              1.12 (Sans Mono, Sans Mono Oblique)
+U+2524 SF090000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2525 uni2525              1.12 (Sans Mono, Sans Mono Oblique)
+U+2526 uni2526              1.12 (Sans Mono, Sans Mono Oblique)
+U+2527 uni2527              1.12 (Sans Mono, Sans Mono Oblique)
+U+2528 uni2528              1.12 (Sans Mono, Sans Mono Oblique)
+U+2529 uni2529              1.12 (Sans Mono, Sans Mono Oblique)
+U+252a uni252A              1.12 (Sans Mono, Sans Mono Oblique)
+U+252b uni252B              1.12 (Sans Mono, Sans Mono Oblique)
+U+252c SF060000             1.12 (Sans Mono, Sans Mono Oblique)
+U+252d uni252D              1.12 (Sans Mono, Sans Mono Oblique)
+U+252e uni252E              1.12 (Sans Mono, Sans Mono Oblique)
+U+252f uni252F              1.12 (Sans Mono, Sans Mono Oblique)
+U+2530 uni2530              1.12 (Sans Mono, Sans Mono Oblique)
+U+2531 uni2531              1.12 (Sans Mono, Sans Mono Oblique)
+U+2532 uni2532              1.12 (Sans Mono, Sans Mono Oblique)
+U+2533 uni2533              1.12 (Sans Mono, Sans Mono Oblique)
+U+2534 SF070000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2535 uni2535              1.12 (Sans Mono, Sans Mono Oblique)
+U+2536 uni2536              1.12 (Sans Mono, Sans Mono Oblique)
+U+2537 uni2537              1.12 (Sans Mono, Sans Mono Oblique)
+U+2538 uni2538              1.12 (Sans Mono, Sans Mono Oblique)
+U+2539 uni2539              1.12 (Sans Mono, Sans Mono Oblique)
+U+253a uni253A              1.12 (Sans Mono, Sans Mono Oblique)
+U+253b uni253B              1.12 (Sans Mono, Sans Mono Oblique)
+U+253c SF050000             1.12 (Sans Mono, Sans Mono Oblique)
+U+253d uni253D              1.12 (Sans Mono, Sans Mono Oblique)
+U+253e uni253E              1.12 (Sans Mono, Sans Mono Oblique)
+U+253f uni253F              1.12 (Sans Mono, Sans Mono Oblique)
+U+2540 uni2540              1.12 (Sans Mono, Sans Mono Oblique)
+U+2541 uni2541              1.12 (Sans Mono, Sans Mono Oblique)
+U+2542 uni2542              1.12 (Sans Mono, Sans Mono Oblique)
+U+2543 uni2543              1.12 (Sans Mono, Sans Mono Oblique)
+U+2544 uni2544              1.12 (Sans Mono, Sans Mono Oblique)
+U+2545 uni2545              1.12 (Sans Mono, Sans Mono Oblique)
+U+2546 uni2546              1.12 (Sans Mono, Sans Mono Oblique)
+U+2547 uni2547              1.12 (Sans Mono, Sans Mono Oblique)
+U+2548 uni2548              1.12 (Sans Mono, Sans Mono Oblique)
+U+2549 uni2549              1.12 (Sans Mono, Sans Mono Oblique)
+U+254a uni254A              1.12 (Sans Mono, Sans Mono Oblique)
+U+254b uni254B              1.12 (Sans Mono, Sans Mono Oblique)
+U+254c uni254C              1.12 (Sans Mono, Sans Mono Oblique)
+U+254d uni254D              1.12 (Sans Mono, Sans Mono Oblique)
+U+254e uni254E              1.12 (Sans Mono, Sans Mono Oblique)
+U+254f uni254F              1.12 (Sans Mono, Sans Mono Oblique)
+U+2550 SF430000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2551 SF240000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2552 SF510000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2553 SF520000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2554 SF390000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2555 SF220000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2556 SF210000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2557 SF250000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2558 SF500000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2559 SF490000             1.12 (Sans Mono, Sans Mono Oblique)
+U+255a SF380000             1.12 (Sans Mono, Sans Mono Oblique)
+U+255b SF280000             1.12 (Sans Mono, Sans Mono Oblique)
+U+255c SF270000             1.12 (Sans Mono, Sans Mono Oblique)
+U+255d SF260000             1.12 (Sans Mono, Sans Mono Oblique)
+U+255e SF360000             1.12 (Sans Mono, Sans Mono Oblique)
+U+255f SF370000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2560 SF420000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2561 SF190000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2562 SF200000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2563 SF230000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2564 SF470000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2565 SF480000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2566 SF410000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2567 SF450000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2568 SF460000             1.12 (Sans Mono, Sans Mono Oblique)
+U+2569 SF400000             1.12 (Sans Mono, Sans Mono Oblique)
+U+256a SF540000             1.12 (Sans Mono, Sans Mono Oblique)
+U+256b SF530000             1.12 (Sans Mono, Sans Mono Oblique)
+U+256c SF440000             1.12 (Sans Mono, Sans Mono Oblique)
+U+256d uni256D              1.12 (Sans Mono, Sans Mono Oblique)
+U+256e uni256E              1.12 (Sans Mono, Sans Mono Oblique)
+U+256f uni256F              1.12 (Sans Mono, Sans Mono Oblique)
+U+2570 uni2570              1.12 (Sans Mono, Sans Mono Oblique)
+U+2571 uni2571              1.12 (Sans Mono, Sans Mono Oblique)
+U+2572 uni2572              1.12 (Sans Mono, Sans Mono Oblique)
+U+2573 uni2573              1.12 (Sans Mono, Sans Mono Oblique)
+U+2574 uni2574              1.12 (Sans Mono, Sans Mono Oblique)
+U+2575 uni2575              1.12 (Sans Mono, Sans Mono Oblique)
+U+2576 uni2576              1.12 (Sans Mono, Sans Mono Oblique)
+U+2577 uni2577              1.12 (Sans Mono, Sans Mono Oblique)
+U+2578 uni2578              1.12 (Sans Mono, Sans Mono Oblique)
+U+2579 uni2579              1.12 (Sans Mono, Sans Mono Oblique)
+U+257a uni257A              1.12 (Sans Mono, Sans Mono Oblique)
+U+257b uni257B              1.12 (Sans Mono, Sans Mono Oblique)
+U+257c uni257C              1.12 (Sans Mono, Sans Mono Oblique)
+U+257d uni257D              1.12 (Sans Mono, Sans Mono Oblique)
+U+257e uni257E              1.12 (Sans Mono, Sans Mono Oblique)
+U+257f uni257F              1.12 (Sans Mono, Sans Mono Oblique)
+U+2580 upblock              1.14
+U+2581 uni2581              1.14
+U+2582 uni2582              1.14
+U+2583 uni2583              1.14
+U+2584 dnblock              1.14
+U+2585 uni2585              1.14
+U+2586 uni2586              1.14
+U+2587 uni2587              1.14
+U+2588 block                1.14
+U+2589 uni2589              1.14
+U+258a uni258A              1.14
+U+258b uni258B              1.14
+U+258c lfblock              1.14
+U+258d uni258D              1.14
+U+258e uni258E              1.14
+U+258f uni258F              1.14
+U+2590 rtblock              1.14
+U+2591 ltshade              1.15
+U+2592 shade                1.15
+U+2593 dkshade              1.15
+U+2594 uni2594              1.14
+U+2595 uni2595              1.14
+U+2596 uni2596              1.14
+U+2597 uni2597              1.14
+U+2598 uni2598              1.14
+U+2599 uni2599              1.14
+U+259a uni259A              1.14
+U+259b uni259B              1.14
+U+259c uni259C              1.14
+U+259d uni259D              1.14
+U+259e uni259E              1.14
+U+259f uni259F              1.14
+U+25ca lozenge              original
+U+2638 uni2638              1.15
+U+fb01 fi                   original
+U+fb02 fl                   original
+U+fffd uniFFFD              1.12
