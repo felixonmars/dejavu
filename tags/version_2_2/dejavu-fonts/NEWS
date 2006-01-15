@@ -1,0 +1,266 @@
+Changes from 2.1 to 2.2:
+
+- reworked the vertical orientation of the Blocks Elements characters
+  in all faces to remove their overly large descenders, in order to fix
+  problems with e.g. terminal emulators (by David Lawrence Ramsey)
+- copied bullet in Sans faces to Serif faces for consistency (by David
+  Lawrence Ramsey)
+- added U+2023, U+25D8, U+25E6, and U+29EB to all faces (by David
+  Lawrence Ramsey)
+- added U+1EB8, U+1EB9, U+1ECA - U+1ECD, U+1EE4, U+1EE5 (by Tim May)
+- added U+01DD, U+02BE, U+02BF, U+02D3 to all, changed U+02D2 in
+  non-Condensed and U+1EE5 in Serif (by Tim May)
+- fixed U+01CE, replacing wrong circumflex by caron (by Denis Jacquerye)
+- added anchor points to some glyphs (by Denis Jacquerye)
+- added U+20B5 (by Denis Jacquerye)
+- added U+0181 - U+0183, U+0187, U+0188, U+018A - U+018D, U+0191,
+  U+0193, U+0195 - U+019B, U+019D, U+019E, U+01A4, U+01A7 - U+01A9, U+01AB -
+  U+01AE, U+01B1, U+01B5, U+01B6, U+01BB, U+01C0 - U+01C3, U+01F1 - U+01F3,
+  U+0238, U+0239, U+1D02, U+1D08, U+1D09, U+1D14, U+1D1F, U+1D77, U+2103,
+  U+2126, U+2127, U+212A, U+212B, U+2132, U+214B, U+2210, U+2217, U+2218,
+  U+2A0C - U+2A0E, U+FB00, U+FB03 and U+FB04 to Sans (by Gee Fung Sit)
+- added U+01A9, U+01C3 and U+2126 to Mono and Serif (by Gee Fung Sit)
+- adjusted bearings of U+028B in Sans (by Gee Fung Sit)
+- added U+018F, U+0494-U+0497, U+04A0-U+04A7, U+04AC-U+04AF,
+  U+04B4-U+04B7, U+04BA-U+04BB, U+04C1-U+04C2, U+04C5-U+04C8, U+04CB-U+04CC,
+  U+04D0-U+04D9, U+04DC-U+04DD, U+04E6-U+04EB to Sans (by Eugeniy
+  Meshcheryakov)
+- replaced with references U+0391-U+0393, U+0395-U+0397, U+0399, U+039A,
+  U+039C, U+039D, U+039F-U+03A1, U+03A4, U+03A5, U+03A7, U+03BF, U+03DC,
+  U+0405, U+0406, U+0408, U+0410, U+0412, U+0415, U+0417, U+041A,
+  U+041C-U+041E, U+0420-U+0422, U+0425, U+0430, U+0435, U+043E, U+0440,
+  U+0441, U+0443, U+0445, U+0455-U+0458 in Serif and Mono (by Eugeniy
+  Meshcheryakov)
+- added U+04D0-U+04D7, U+04E6-U+04EB to Serif (by Eugeniy Meshcheryakov)
+- added U+212A and U+212B to the rest of the faces (by Lars Naesbye
+  Christensen)
+- added U+2318 and U+2325 to Sans and Serif (by Lars Naesbye Christensen)
+- added and improved TrueType instructions and related settings (by
+  Keenan Pepper)
+- completed basic Greek alphabet: added U+0374-U+0375, U+037A, U+037E,
+  U+0384-U+038A, U+038C, U+038E-U+0390, U+03AC-U+03BF, U+03C1-U+03CE (by Ben
+  Laenen)
+- added U+2070 and U+2074-U+2079 (by Mederic Boquien) 
+
+Changes from 2.0 to 2.1:
+
+*** Be aware that names of some TTF files changed since version 2.0. ***
+
+- added U+0323, U+1E0C, U+1E0D, U+1E24, U+1E25, U+1E36 - U+1E39, U+1E42,
+  U+1E43, U+1E46, U+1E47, U+1E5A - U+1E5D, U+1E62, U+1E63, U+1E6C, U+1E6D,
+  U+1E7E, U+1E7F (by Tim May)
+- fixed bug where GNOME applications used Mono Bold Oblique instead of
+  Mono Oblique (by Keenan Pepper)
+- added and improved TrueType instructions and related settings (by
+  Keenan Pepper)
+- added U+1E41, U+1E57, U+1E61 (by Sander Vesik)
+- added U+0189, U+0309, U+0313, U+0314, U+031A, U+031B, U+0327, U+0328,
+  U+032B, U+0333, U+033C (by Denis Jacquerye)
+- adjusted and fixed U+0186, U+0254, U+0291, U+0316 - U+0319, U+031C -
+  U+0320, U+0323 - U+0326, U+0329 - U+032A, U+032C - U+0332, U+0339 - U+033B,
+  U+033E, U+033F (by Denis Jacquerye)
+- fixed U+1E12, U+1E3C, U+1E4A, U+1E70 to have normal below diacritics
+  (by Denis Jacquerye)
+- fixed U+1E82, U+1E84 and U+1EF2 to have uppercase above diacritics (by
+  Denis Jacquerye)
+- added anchor points to some glyphs (by Denis Jacquerye)
+- dropped "-Roman" from font names - affects both internal TTF names and
+  names of generated files (by Stepan Roh)
+- attempt to fix bug Vertical spacing too big for Mono by exchanging
+  LineGap and OS2TypoLinegap values (proofed by Stefan Rank)
+- added Greek capitals U+0391 - U+03A1, U+03A3 - U+03A9, U+03AA, U+03AB
+  in Mono (by Ben Laenen)
+- added the per ten thousand sign U+2031 (by Mederic Boquien)
+- added U+2207, U+221D, U+221F, U+2227 - U+222A, and U+2261 (by David
+  Lawrence Ramsey)
+- new logo (by Gee Fung Sit)
+- added U+0180, U+018E, U+201F, U+2024, U+2025, U+203D, U+2200, U+2203,
+  U+2213, U+222C, U+222D, U+2263 to Sans (by Gee Fung Sit) 
+
+Changes from 1.15 to 2.0:
+
+- "Italized" basic glyphs in all Serif Oblique and their Condensed faces
+  (by David Jez)
+- added and improved TrueType instructions and related settings (by Keenan
+  Pepper)
+- added anchor points to some glyphs (by Denis Jacquerye)
+- many new spacing and combining accents (by Denis Jacquerye)
+- smart substitutions for transforming i and j to dottless form and for
+  using uppercase diacritics (by Denis Jacquerye)
+- fixed remaining erroneously slanted characters in Serif Oblique faces (by
+  David Lawrence Ramsey)
+- copied bullet in Sans faces to Sans Oblique faces for consistency (by
+  David Lawrence Ramsey)
+- added U+203C and U+2047-U+2049 (by David Lawrence Ramsey)
+- added Greek glyphs to Serif (by Ben Laenen, Condensed merge by David Jez)
+- fixed bug LTR glyphs behaving like RTL (by Ben Laenen)
+- fixed wrong glyph directions (by David Jez)
+- fixed repositioned accents in Condensed faces (by David Jez)
+
+Changes from 1.14 to 1.15:
+
+- added and improved TrueType instructions and related settings (by Keenan
+  Pepper)
+- fixed U+2302, U+2319 (by David Lawrence Ramsey)
+- fixed yet another monospace bug (by Stepan Roh)
+- fixed potential "too big ascender/descender" bug (by Stepan Roh)
+- fixed U+026E and U+028E (by Denis Jacquerye)
+- added U+0186, U+0190, U+0300 - U+0304, U+0306 - U+0308, U+030A - U+030C,
+  U+0321, U+0322 (by Denis Jacquerye)
+- added rest of Block Elements: U+2591 - U+2593 (by David Lawrence Ramsey)
+- added U+2311, U+237D and U+2638 (by David Lawrence Ramsey)
+- added U+01CD - U+01D4 (by Denis Jacquerye)
+- fixed accents of U+00F2 - U+00F6 by replacing them with references in Mono
+  Bold (by David Je¾)
+- added U+0490, U+0491 (by Eugeniy Meshcheryakov)
+- added hints to U+0404 and U+0454 in Sans (by Eugeniy Meshcheryakov)
+- completed Greek glyphs from U+0370 to U+03CF in Serif (by Ben Laenen)
+- fixed shape of U+0255 in Sans Bold and Sans Bold Oblique (by Denis
+  Jacquerye)
+
+Changes from 1.13 to 1.14:
+
+- fixed bug where Mono faces were not recognized as fixed pitch in Windows
+  by correcting Venda glyphs (by David Jez)
+- added and improved TrueType instructions (by Keenan Pepper)
+- added 6 Uzbekian glyphs (by Mashrab Kuvatov)
+- added Greek glyphs to Sans and Serif, changed pi and omega to fit in (by
+  Ben Laenen)
+- added IPA and related superscript glyphs (by Denis Jacquerye)
+- fixed buggy Venda glyphs (by David Lawrence Ramsey and Stepan Roh)
+- added U+2302, U+2310, U+2319 (by David Lawrence Ramsey)
+- fixed slanted U+00AC in Serif Oblique faces (by David Lawrence Ramsey)
+- added 29 glyphs from Block Elements (by David Lawrence Ramsey)
+
+Changes from 1.12 to 1.13:
+
+- removed all stems (PS hints) (requested by David Jez)
+- added U+01D6, U+01DF, U+022B, U+022D and U+0231 (by Sander Vesik)
+- added 10 Venda glyphs (by Dwayne Bailey)
+- fixed bug when fonts had no name on Microsoft Windows (by Stepan Roh)
+- updated 'missing' glyph U+FFFD (by David Jez)
+- set TTF flag fsType to 'Installable Embedding' (= unrestricted usage)
+  (idea by C. Tiffany)
+
+Changes from 1.11 to 1.12:
+
+- added long s (by James Cloos)
+- prettier comma accent in gcommaaccent (by David Jez)
+- added Hbar, hbar, kgreenlandic, napostrophe, Eng, eng, Tbar, tbar,
+  afii57929 (by David Jez)
+- changed Iogonek, iogonek, IJ, ij to look better (by David Jez)
+- glyph uni0237 renamed to dotlessj (requested by David Jez)
+- fixed accents for dcaron, lcaron, tcaron, Uogonek, uogonek in Serif (by
+  David Jez)
+- added U+2500 - U+257F box drawing glyphs to Sans Mono (by David Jez)
+- fixed accents in Wcircumflex, Ycircumflex and Zdotaccent (by David Jez)
+- extra kerning for F (by Sander Vesik)
+- added 'missing' glyph U+FFFD (by David Jez)
+
+Changes from 1.10 to 1.11:
+
+- kerning updates (by Sander Vesik)
+- added Iogonek, iogonek, IJ, ij, Uogonek, uogonek (from SuSE standard fonts
+  by Adrian Schroeter, SuSE AG)
+- added Gcommaaccent, gcommaaccent, Kcommaaccent, kcommaaccent,
+  Lcommaaccent, lcommaaccent, Ncommaaccent, ncommaaccent, Rcommaaccent,
+  rcommaaccent (by Stepan Roh)
+
+Changes from 1.9 to 1.10:
+
+- added U+022E, U+022F (by Sander Vesik)
+- kerning updates for DejaVu Sans (by Sander Vesik)
+- fixed too wide cyrillic glyphs in DejaVu Sans Mono (by Valentin Stoykov)
+- fixed ligatures bug in Mono (by Stepan Roh)
+
+Changes from 1.8 to 1.9:
+
+- integrated Arev Cyrillics (by Danilo Segan)
+- added U+01EA, U+01EB, U+01EC, U+01ED (by Sander Vesik)
+
+Changes from 1.7 to 1.8:
+
+- fixed accents in Serif Oblique and Serif Bold Oblique (by Stepan Roh)
+
+Changes from 1.6 to 1.7:
+
+- added automatically generated Condensed typefaces (by Stepan Roh)
+
+Changes from 1.5 to 1.6:
+
+- monospace bug fixed (by Stepan Roh)
+- incorrect Bitstream foundry assigned by fontconfig and KDE Font Installer
+fixed (by Stepan Roh)
+- added automatically generated Oblique version of Serif typefaces (by
+Stepan Roh)
+- corrected cyrillic D and d (by Danilo Segan and David Jez)
+- fixed accents position in Oblique version of Serif typefaces (by Danilo
+Segan and Sander Vesik)
+- fixed incorrect computation of OS2Win* fields (by Stepan Roh)
+- added visiblespace U+2423 (by David Jez)
+- fixed 'line height' bug by fixing ascender and descender values (by David
+Jez and Stepan Roh)
+- fixed part of 'worse than Vera' bug (by Peter Cernak)
+- smaller comma accent U+0326 (by David Jez)
+
+Changes from 1.4 to 1.5:
+
+- added Cyrillics (96 characters) and Dcroat to the rest of typefaces (by
+Danilo Segan)
+- fixed bugs in some Cyrillic characters, some of them reported by Sander
+Vesik (by Danilo Segan)
+- added U+0100, U+0101, U+0112, U+0113, U+012A, U+012B, U+014C, U+014D,
+U+016A, U+016B, U+01E2, U+01E3, U+0232 and U+0233 (by Sander Vesik)
+- added Romanian characters (by Misu Moldovan)
+- added U+0108, U+0109, U+010A, U+010B, U+0114, U+0115, U+0116, U+0117,
+U+011C, U+011D, U+0120, U+0121, U+0124, U+0125, U+0128, U+0129, U+012C,
+U+012D, U+0134, U+0135, U+014E, U+014F, U+0150, U+0151, U+015C, U+015D,
+U+0168, U+0169, U+016C, U+016D, U+0170, U+0171 and U+0237 (by James
+Crippen)
+- added U+02BB, U+2010, U+2011, U+2012 and U+2015 (by Stepan Roh)
+
+Changes from 1.3 to 1.4:
+
+- added Polish characters (Aogonek, aogonek, Eogonek, eogonek, Nacute,
+nacute, Sacute, sacute, Zacute, zacute, Zdotaccent, zdotaccent) (by Stepan
+Roh)
+
+Changes from 1.2 to 1.3:
+
+- added Cyrillics (96 characters) and Dcroat to Sans typefaces (by Danilo
+Segan from his BePa fonts)
+
+Changes from 1.1 to 1.2:
+
+- added Ldot, ldot, Wcircumflex, wcircumflex, Ycircumflex, ycircumflex,
+  Wgrave, wgrave, Wacute, wacute, Wdieresis, wdieresis, Ygrave and ygrave
+  (from The Olwen Font Family 0.2 by Dafydd Harries)
+
+Changes from 1.0 to 1.1:
+
+- added Lacute, lacute, Lcaron, lcaron, Racute and racute (by Peter Cernak)
+
+Changes from 0.9.4 to 1.0:
+
+- none, just changed version and updated README
+
+Changes from 0.9.3 to 0.9.4:
+
+- fixed TTF generation (kerning tables were missing)
+
+Changes from 0.9.2 to 0.9.3:
+
+- kerning of added characters
+- proper caron shape for dcaron in Mono (by Ondrej Koala Vacha)
+- minor visual changes
+
+Changes from 0.9.1 to 0.9.2:
+
+- internal bugged version
+
+Changes from 0.9 to 0.9.1:
+
+- proper caron shape for dcaron and tcaron
+- minor visual changes
+
+$Id$
